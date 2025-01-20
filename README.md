@@ -18,6 +18,6 @@ enjoy **^.^**
 
 <p align= "center">
    <kbd>
-   <img  src="[https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png](https://raw.githubusercontent.com/KodakSec/Prosint/refs/heads/main/ProSint.png?token=GHSAT0AAAAAAC5UD6LSSOORJGENZJP2XZCKZ4OXAOQ)">
+   <img  src="https://raw.githubusercontent.com/KodakSec/Prosint/refs/heads/main/ProSint.png?token=GHSAT0AAAAAAC5UD6LSSOORJGENZJP2XZCKZ4OXAOQ">
    </kbd>
 </p>
