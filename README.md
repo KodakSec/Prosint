@@ -6,6 +6,7 @@ build in rust
 ``cargo build --release``
 
 in your cmd or terminal Windows Linux Mac
+
 --> ``prosint -m test@proton.me`` or another email proton
 
 --> ``prosint -i 0.0.0.0`` --> result 
